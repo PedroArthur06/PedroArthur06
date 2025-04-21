@@ -53,10 +53,5 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+![snake gif](https://github.com/PedroArthur06/PedroArthur06/blob/output/github-snake-dark.svg)
 ###

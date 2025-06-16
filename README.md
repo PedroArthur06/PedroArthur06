@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Fullstack developer<br>- I'm a third-year Computer Science student at IFMT</p>
+<p align="left">- Backend developer<br></p>
 
 ###
 
@@ -18,29 +18,21 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+## ⚡ Languages and Tools
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
 <h2 align="left">Stats</h2>
 

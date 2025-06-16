@@ -1,4 +1,3 @@
-<h2 align="left">About me</h2>
 
 
 <p align="left">- Backend developer<br></p>

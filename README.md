@@ -1,16 +1,7 @@
 
-
-<div align="left">
-  <p style="
-    font-size: 24px; 
-    font-weight: bold; 
-    background: -webkit-linear-gradient(45deg, #f89e4f, #ff4b4b); 
-    -webkit-background-clip: text; 
-    -webkit-text-fill-color: transparent;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
-    Backend Developer
-  </p>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroArthur06/PedroArthur06/main/header.svg" alt="Backend Developer" />
+</p>
 
 ###
 

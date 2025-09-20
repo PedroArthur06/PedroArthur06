@@ -27,10 +27,10 @@
     </linearGradient>
   </defs>
   <circle cx="120" cy="150" r="56" fill="url(#lg)" stroke="#fff" stroke-opacity="0.14" stroke-width="1.5"/>
-  <text x="120" y="164" text-anchor="middle" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial" font-size="40" fill="#1C1938" font-weight="700">PB</text>
+  <text x="120" y="164" text-anchor="middle" font-family="Segoe UI, Roboto, 'Helvetica Neue', Arial" font-size="40" fill="#1C1938" font-weight="700">Peá</text>
 
   <!-- título principal -->
-  <text x="260" y="120" font-family="Inter, 'Segoe UI', Roboto, Arial" font-size="48" font-weight="700" fill="#FFFFFF">👨‍💻 Backend Developer</text>
+  <text x="260" y="120" font-family="Inter, 'Segoe UI', Roboto, Arial" font-size="48" font-weight="700" fill="#FFFFFF"> Backend Developer</text>
 
   <!-- subtítulo -->
   <text x="260" y="160" font-family="Inter, 'Segoe UI', Roboto, Arial" font-size="18" fill="#D1D5DB">APIs confiáveis • Microservices • Escalabilidade • Testes</text>
@@ -44,10 +44,10 @@
     <text x="200" y="27" text-anchor="middle" font-family="Inter, Arial" font-size="13" fill="#fff">TypeScript</text>
 
     <rect x="280" y="8" rx="10" ry="10" width="120" height="28" fill="#632346" opacity="0.65"/>
-    <text x="340" y="27" text-anchor="middle" font-family="Inter, Arial" font-size="13" fill="#fff">PostgreSQL</text>
+    <text x="340" y="27" text-anchor="middle" font-family="Inter, Arial" font-size="13" fill="#fff">MongoDB</text>
 
     <rect x="420" y="8" rx="10" ry="10" width="100" height="28" fill="#A74156" opacity="0.7"/>
-    <text x="470" y="27" text-anchor="middle" font-family="Inter, Arial" font-size="13" fill="#fff">Docker</text>
+    <text x="470" y="27" text-anchor="middle" font-family="Inter, Arial" font-size="13" fill="#fff">Java</text>
   </g>
 
   <!-- rodapé pequeno com paleta -->

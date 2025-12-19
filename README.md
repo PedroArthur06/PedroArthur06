@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PedroArthur06/PedroArthur06/main/header.svg" alt="Backend Developer" />
+  <img src="https://raw.githubusercontent.com/PedroArthur06/PedroArthur06/main/banner-github - Editado.png" alt="Backend Developer" />
 </p>
 
 ###

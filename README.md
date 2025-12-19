@@ -5,18 +5,18 @@
 
 ###
 
-<h2 align="left">Social media</h2>
-
-###
-
-<div align="left">
+<h2 align="left">Connect with me</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/pedro-arthur-rod/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-</div>
-
-###
+  <a href="mailto:pedrobasto.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://portifolio-pedro-basto-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-%23712cf9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ## ⚡ Core Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
